@@ -1,4 +1,5 @@
 # MaterialInformaticsCourse
+My Name: EBRAHIM SABERI////
 Okay It seems working!!
 Commands to this were:
 1.first connecting to Git: git clone git@github.com:...
